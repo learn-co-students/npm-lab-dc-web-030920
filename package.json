@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "yes",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coDeguZo/npm-lab-dc-web-030920.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "uzo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/coDeguZo/npm-lab-dc-web-030920/issues"
+  },
+  "homepage": "https://github.com/coDeguZo/npm-lab-dc-web-030920#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
