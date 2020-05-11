@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "This app clock app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beza25/npm-lab-dc-web-030920.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Bez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beza25/npm-lab-dc-web-030920/issues"
+  },
+  "homepage": "https://github.com/Beza25/npm-lab-dc-web-030920#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
